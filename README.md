@@ -19,6 +19,7 @@ It uses a TFT display for real-time feedback and an IR remote + push button for 
 - **Light Sensor:** Silences alarm when light is blocked (above 2.5V)  
 - **Remote Control:** Set time, alarm, and fan temperature via IR  
 - **Push Button:** Toggle alarm mode ON/OFF  
+<img width="280" height="372" alt="image" src="https://github.com/user-attachments/assets/148edb86-adf6-44bd-bcfc-1325ceb8dcd9" />
 
 ---
 
