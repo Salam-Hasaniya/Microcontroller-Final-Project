@@ -10,7 +10,7 @@ It uses a TFT display for real-time feedback and an IR remote + push button for 
 
 ---
 
-## 🚀 Features
+## Features
 - **TFT Display:** Shows time, date, temperature, fan status, and duty cycle  
 - **Temperature Display:** Ambient temperature in °C and °F  
 - **Digital Clock:** Real-time clock (DS3231) with date/time tracking  
