@@ -7,6 +7,7 @@ An integrated embedded system using the **PIC18F4620** microcontroller that comb
 ## Overview
 This project integrates multiple peripherals and sensors into a single embedded control system.  
 It uses a TFT display for real-time feedback and an IR remote + push button for user control.
+<img width="926" height="610" alt="image" src="https://github.com/user-attachments/assets/78a09c49-03c7-4fd0-86a3-92a486379c23" />
 
 ---
 
